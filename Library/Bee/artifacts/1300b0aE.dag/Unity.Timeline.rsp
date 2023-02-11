@@ -124,6 +124,7 @@
 -define:TIMELINE_FRAMEACCURATE
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"Assets/Deb/SharedLibrary.dll"
 -r:"Assets/FacebookSDK/Plugins/Editor/Facebook.Unity.Editor.dll"
 -r:"Assets/FacebookSDK/Plugins/Facebook.Unity.dll"
 -r:"Assets/FacebookSDK/Plugins/Gameroom/Facebook.Unity.Gameroom.dll"
